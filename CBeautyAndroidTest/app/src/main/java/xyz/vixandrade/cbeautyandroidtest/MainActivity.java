@@ -172,7 +172,6 @@ public class MainActivity extends AppCompatActivity {
                                 JSONArray rootObj = new JSONArray(Jdata);
 
                                 if(rootObj != null)
-                                //if(rootObj.length()>=0)
                                 {
 
                                     JSONObject repository1 = rootObj.getJSONObject(0);
@@ -184,7 +183,6 @@ public class MainActivity extends AppCompatActivity {
                                 }
 
                                  if(rootObj != null)
-                                //if(rootObj.length()>=1)
                                 {
 
                                     JSONObject repository2 = rootObj.getJSONObject(1);
@@ -195,8 +193,7 @@ public class MainActivity extends AppCompatActivity {
                                     rc2.setVisibility(View.VISIBLE);
                                 }
 
-                                if(rootObj != null)
-                                //if(rootObj.length()>=2)
+                                 if(rootObj != null)
                                 {
 
                                     JSONObject repository3 = rootObj.getJSONObject(2);
