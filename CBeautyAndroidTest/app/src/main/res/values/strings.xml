@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CBeautyAndroidTest</string>
+
+    <string name="BtnBuscar">Buscar</string>
+    <string name="Username">Usuario nome</string>
+    <string name="Userbio">Usuario bio</string>
+    <string name="msgVazio">Insira algum nome</string>
+    <string name="msgVazioRep">Infelizmente esse usuario nao tem informações o suficiente</string>
+
+    <string name="nameVar">name</string>
+</resources>
